@@ -3,4 +3,4 @@
 
 ## A rich text editor made for learning purposes.
 
-### `Using Slate.js (Immutable.JS) & React.
+### `Using Slate.js (Immutable.JS) & React.`
